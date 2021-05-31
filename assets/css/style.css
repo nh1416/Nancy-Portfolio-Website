@@ -502,18 +502,7 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 /* Three image containers (use 25% for four, and 50% for two, etc) */
-.portfolio .column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-.portfolio .row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
